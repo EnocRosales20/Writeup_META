@@ -4,7 +4,7 @@ Escenario:
 
 Las imágenes adjuntas fueron publicadas por un delincuente prófugo, con el mensaje "Estoy suelto. Nunca me atraparás".
 
-![image.png](image.png)
+![](https://github.com/EnocRosales20/Writeup_META/blob/main/images/image%200.png)
 
 **1.¿Cuál es el modelo de la cámara?**
 
@@ -23,7 +23,7 @@ Observamos el archivo .zip y lo descomprimimos
 
 Nos pide la contraseña y esta es “btlo”
 
-![image.png](image%201.png)
+![](https://github.com/EnocRosales20/Writeup_META/blob/main/images/image%201.png)
 
 Obervamos que hay dos imagenes y lo analizamos
 
@@ -33,11 +33,11 @@ exiftool uploaded_1.JPG
 
 Y observamos los metadatos
 
-![image.png](image%202.png)
+![](https://github.com/EnocRosales20/Writeup_META/blob/main/images/image%202.png)
 
 Buscamos el modelo de la camara y lo encontramos
 
-![image.png](image%203.png)
+![](https://github.com/EnocRosales20/Writeup_META/blob/main/images/image%203.png)
 
 **Respuesta:** Canon EOS 550D
 
@@ -47,7 +47,7 @@ Luego nos pide la fecha que se tomo la fotografia
 
 Buscamos dentro de los metadtos y lo encontramos
 
-![image.png](image%204.png)
+![](https://github.com/EnocRosales20/Writeup_META/blob/main/images/image%204.png)
 
 **Respuesta:**  2021:11:02 13:20:23
 
@@ -55,7 +55,7 @@ Buscamos dentro de los metadtos y lo encontramos
 
 Nos pide hallar los comentarios que esta en la primera imagen , buscamos dentro de los metadatos y lo hallamos
 
-![image.png](image%205.png)
+![](https://github.com/EnocRosales20/Writeup_META/blob/main/images/image%205.png)
 
 **Respuesta:** relying on altered metadata to catch me?
 
@@ -63,6 +63,6 @@ Nos pide hallar los comentarios que esta en la primera imagen , buscamos dentro 
 
 Luego nos pide el lugar donde podria estar el criminal, esto lo podemos hallar en Google Imagenes , ponemos la segunda foto y nos da el lugar 
 
-![image.png](image%206.png)
+![](https://github.com/EnocRosales20/Writeup_META/blob/main/images/image%206.png)
 
 **Respuesta:** Katmandú
